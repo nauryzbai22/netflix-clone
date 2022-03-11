@@ -4,6 +4,6 @@ Netflix clone - это клон одного из самых популярны�
 ![netf](https://user-images.githubusercontent.com/99174852/157896285-1e78a493-d21a-4569-8932-415ae648a0a5.png)
 
 ## Просмотреть проект:
-[Ссылка](netflix-clone-c0d6b.web.app) на проект.
+[Ссылка](https://netflix-clone-c0d6b.web.app/) на проект.
 ## Использованные технологии:
 ReactJS, Firebase, Axios, TMDB API.
